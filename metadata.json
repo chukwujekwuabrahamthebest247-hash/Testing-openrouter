@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Ultra Voice",
+  "description": "A premium AI assistant with real-time voice-to-voice capabilities, high-fidelity audio responses, and persistent chat history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
